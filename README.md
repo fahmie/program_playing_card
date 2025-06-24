@@ -1,3 +1,5 @@
+How To Install
+
 1. Clone the Repository
 
 git clone https://github.com/fahmie/program_playing_card.git
